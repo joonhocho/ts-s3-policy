@@ -1,6 +1,6 @@
 {
   "name": "ts-s3-policy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Amazon AWS S3 Upload Policy Generator with Signature Version 4 in TypeScript",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
