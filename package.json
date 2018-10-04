@@ -1,7 +1,7 @@
 {
   "name": "ts-s3-policy",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "Amazon AWS S3 Upload Policy Generator with Signature Version 4 in TypeScript",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -18,10 +18,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/joonhocho/ts-s3-policy.git"
+    "url": "git+https://github.com/joonhocho/ts-s3-policy.git"
   },
-  "author": "",
-  "homepage": "https://bitbucket.org/joonhocho/ts-s3-policy#readme",
+  "keywords": [
+    "Amazon",
+    "AWS",
+    "S3",
+    "Upload",
+    "Policy",
+    "Generator",
+    "Signature",
+    "v4"
+  ],
+  "author": "Joon Ho Cho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joonhocho/ts-s3-policy/issues"
+  },
+  "homepage": "https://github.com/joonhocho/ts-s3-policy#readme",
   "devDependencies": {
     "@types/jest": "^23.3.1",
     "@types/node": "^10.11.4",
